@@ -1,0 +1,21 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Zoom In:New York State"
+      href: about.html 
+    - text: "Dashboard:Payroll"
+      href: about.html
+    - text: "Project Report"
+      href: about.html
+    - icon: fa fa-play-circle-o
+      href: mailto:<you@youremail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/nys_sa/
+    - icon: fa fa-dollar
+      href: https://en.wikipedia.org/wiki/Economy_of_New_York_City#:~:text=The%20economy%20of%20New%20York,the%20world's%20premier%20financial%20center.%20https://en.wikipedia.org/wiki/Economy_of_New_York_(state)     
+      
+output:
+  html_document:
+    theme: cosmo

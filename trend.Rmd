@@ -1,0 +1,41 @@
+---
+title: "New York State and Average Total Pay By Borough in 2022"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+
+<center>
+<img src="images/nys.jpg" style="width:100%">
+</center>
+
+### Motivation 
+New York City (NYC) is recognized as having the largest city and regional economies in the United States (Wikipedia, 2022).  If New York City were an individual country, it would be ranked as the 10th largest global economy (Wikipedia, 2022).  Our motivation for this project is to  use the skills that we have learned in Data Science I and apply them to answer imperative questions about NYC, such as which NYC borough yields the highest and lowest average total pay, which would combine salary, overtime, and other pay, in 2022 from data related to New York City’s budget on the salaries and overtime pay of municipal employees.
+
+* [Data science](https://p8105.com/index.html)
+*
+
+### What You’ll Find In This Website
+*
+*
+*
+*
+
+
+
+
+
+
+Varvara Rousseau, Nergui Ravzanaadii and Justin Vargas 
+Visualizations and analyses performed using [R](https://www.r-project.org/about.html) (v4.0.3) and [RStudio](https://posit.co/) (v1.3.1073).
+
+Additional interactivity added using [plotly](https://plotly.com/) (v4.13.0).
+
+[Click here](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e) to see publicly available New York State and Average Total Pay dataset, a NYC Open data.
+
+[Click here](https://en.wikipedia.org/wiki/Economy_of_New_York_City#:~:text=The%20economy%20of%20New%20York,the%20world's%20premier%20financial%20center.
+https://en.wikipedia.org/wiki/Economy_of_New_York_(state)
+) to see overall Economy of New York City
